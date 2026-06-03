@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Karthikeyan%20R%20S&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeyan3007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeyan-3007)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikeyanrssrm@gmail.com)
 [![Location](https://img.shields.io/badge/Salem%2C_Tamil_Nadu-%23FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
 ![CGPA](https://img.shields.io/badge/CGPA-8.55%2F10-FFD700?style=for-the-badge&logo=academia&logoColor=black)
@@ -144,10 +144,10 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthikeyan3007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan3007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthikeyan-3007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-3007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeyan3007&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeyan-3007&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -173,14 +173,14 @@ me.say_hi()
 
 Got an exciting project, internship, or just want to talk tech?
 
-[![LinkedIn](https://img.shields.io/badge/Hit_me_up_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeyan3007)
+[![LinkedIn](https://img.shields.io/badge/Hit_me_up_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeyan-3007)
 [![Email](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikeyanrssrm@gmail.com)
 
 ---
 
 *"The best way to predict the future is to build it."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=karthikeyan3007&color=00D9FF&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=karthikeyan-3007&color=00D9FF&style=flat-square&label=Profile+Views)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
 
