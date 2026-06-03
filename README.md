@@ -1,85 +1,98 @@
-<h1 align="center">Hi 👋, I'm Karthikeyan</h1>
 
-<h3 align="center">
-Aspiring Software Engineer | Machine Learning Enthusiast | Blockchain Learner
-</h3>
+<h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=8A2BE2&lines=HELLO%2C+I'M;KARTHIKEYAN" />
+</h1>
 
----
+<h3>B.Tech CSE Student | Aspiring Software Engineer</h3>
 
-## 🚀 About Me
-
-🎓 B.Tech Computer Science & Engineering Student
-
-💡 Passionate about Software Development, Machine Learning, Data Analysis, Blockchain, and Cloud Technologies.
-
-🌱 Continuously learning new technologies and building real-world projects.
-
-🎯 Seeking opportunities to grow as a developer and contribute to innovative solutions.
+📍 Salem, Tamil Nadu, India  
+📞 +91 XXXXXXXXXX  
+📧 yourmail@gmail.com  
+💼 LinkedIn: linkedin.com/in/karthikeyan3007  
 
 ---
 
-## 🛠️ Skills
+# 👨‍💻 About Me
 
-### Programming
+Motivated Computer Science Engineering student with a strong foundation in programming, data analysis, machine learning, and emerging technologies. Seeking opportunities to apply technical skills and contribute to innovative projects.
+
+---
+
+# ⚡ Technical Skills
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,html,aws" />
+</p>
+
 - Python
-- MySQL
-- HTML
-
-### Technologies
-- Machine Learning
 - Data Analysis
+- Machine Learning
 - Blockchain
 - IoT
-- AWS Cloud Computing
+- Cloud Computing (AWS)
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Projects
 
 ### 🔐 Degree Certificate Verification System Using Blockchain
-Built a secure certificate verification platform using Ethereum, Solidity, IPFS, and SHA-256.
+Secure credential verification platform using Ethereum, Solidity, IPFS and SHA-256.
 
-### 🌾 IoT-Based Smart Agriculture Monitoring System
-Developed a smart farming solution for real-time crop monitoring and efficient irrigation management.
+### 🌱 IoT-Based Smart Agriculture Monitoring System
+Real-time crop monitoring using IoT sensors for smart irrigation.
 
-### 🤖 Machine Learning Prediction System
-Created an end-to-end predictive analytics pipeline including data preprocessing, model training, and evaluation.
+### 🤖 Machine Learning-Based Prediction System
+End-to-end ML pipeline for predictive analytics.
 
 ---
 
-## 🏆 Certifications
+# 🎓 Education
 
-✔ AWS Academy Cloud Foundations
+**B.Tech Computer Science & Engineering**  
+SRM Institute of Science and Technology, Trichy  
+CGPA: 8.55 / 10
 
-✔ AWS Academy Generative AI Foundation
+---
 
-✔ Infosys Springboard Data Visualization
+# 💼 Experience
+
+### Infosys Springboard Internship 6.0
+Built an AI-powered insurance comparison platform.
+
+### Data Analyst Intern – Lizzy LeFresh Food Products
+Analyzed operational data and built performance dashboards.
+
+---
+
+# 🏆 Certifications
+
+✔ Data Visualization – Infosys Springboard
+
+✔ AWS Cloud Foundations
+
+✔ AWS Generative AI Foundation
 
 ✔ MongoDB Professional Training
 
-✔ TCS iON Career Edge – Young Professional
+✔ TCS iON Career Edge
 
 ---
 
-## 🌱 Currently Learning
+# 🌍 Connect With Me
 
-- Full Stack Development
-- Advanced Machine Learning
-- Cloud Technologies
-- Generative AI
+<p>
+<a href="https://linkedin.com/in/karthikeyan3007">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
----
-
-## 📫 Connect With Me
-
-📧 Email: karthikeyanrssrm@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/karthikeyan3007
+<a href="mailto:yourmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
 
 ---
 
-<div align="center">
-
-### ⭐ Code • Learn • Build • Grow ⭐
-
-</div>
+<h3 align="center">
+⭐ Continuous learning, strong fundamentals, and a passion for innovation ⭐
+</h3>
+```
