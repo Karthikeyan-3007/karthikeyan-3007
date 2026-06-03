@@ -138,20 +138,7 @@ me.say_hi()
 🔥  UNNATI Hackathon               →  CSI Student Branch, GRIET   (Mar 2026)
 ```
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthikeyan-3007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-3007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikeyan-3007&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
 
 ## 🎯 Strengths
 
